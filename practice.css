@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    background-image: url(./images/pexels-karolina-grabowska-4814061.jpg);
+    
 }
 .create{
     color:rgb(212, 212, 96);
@@ -19,7 +19,7 @@
     color: white;
 }
 .btn2{
-    background-color: greenyellow;
+    background-color: rgb(131, 193, 39);
 width: 200px;
 height: 50px;
 border: 2px solid rgb(110, 134, 66);
@@ -30,4 +30,20 @@ color: white;
 .center{
     text-align: center;
     padding-top: 200px;
+}
+#para{
+    color: rgb(212, 212, 96);
+    text-align: center;
+    font-size: 30px;
+}
+#btn3{
+    background-color: rgb(131, 193, 39);
+    width: 290px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 20px;
+    color: white;
+   margin-left: 490px;
+   margin-top: 40px;
+   gap:40px ;
 }
